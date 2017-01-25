@@ -1,5 +1,5 @@
 BeautifulSoup4==4.4.0
 flask==0.11
 Flask-SQLAlchemy==2.1
-redis==2.10.5
 requests==2.12.1
+schedule==0.4.2
